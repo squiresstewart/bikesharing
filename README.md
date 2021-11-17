@@ -50,25 +50,21 @@ For Instance
 ### [Bikes Due for Repair](https://public.tableau.com/shared/73WNZHGHW?:display_count=n&:origin=viz_share_link)
 ![fifthrepairs.png](./Resources/fifthrepairs.png)
 
-With a fleet of 13,983 bikes 1138 are currently due for repair. 
+With a fleet of 13,983 bikes 1138 are currently due for repair in New York. That is about a twelth of the fleet at any time (given proper preventavtive maintenance rotation. 
 
-
-
-
-high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 ### [Area Spread](https://public.tableau.com/shared/MXX2R3BJ8?:display_count=n&:origin=viz_share_link)
 ![areaspread.png](./Resources/areaspread.png)
 52 are outliers with less than and average of less than 1.5 instances per outlier.
-This map shows us the area that the total rental activity covers. The natural boundary of the waterways around the island keep the bikes well confined to an area of nearly 23 square miles. The 52 markers outside of the island are outliers with an average of less than 1.5 instances per outlier. The markers to the North indicate there a niche to be filled in the area and while cost of operations increase with a larger area then this neighborhood can be considered sustainable while the markers the West of the island would be an expense hard to manage. The possibilty of more expensive outliers in a city like Des Moines might be greater since there are less natural boundaries.
+This map shows us the area that the total rental activity covers. The natural boundary of the waterways around the island keep the bikes well confined to an area of nearly 23 square miles. The 52 markers outside of the island are outliers with an average of less than 1.5 instances per outlier. The markers to the North indicate there is a niche to be filled in the area and while cost of operations increase with a larger area then this neighborhood can be considered sustainable while the markers the West of the island would be an expense hard to manage. The possibilty of more expensive outliers in a city like Des Moines might be greater since there are less natural boundaries.
+
+
+Proper Due Diligence with such a proposal requires that financial metrics be analyzed. The cost per unit as well as profits earned per unit would help better estitmate venture capital and capex dollars needed to start. Other financial data would be helpful to establish operating expenses such as taxes and payroll; offering a more complete picture of what investors wants to know most, the ROIs and NIOs. 
 
 
 
 
 
-(https://public.tableau.com/shared/QDRRKFQ78?:display_count=n&:origin=viz_share_link)
+## [NY CITYBIKE](https://public.tableau.com/shared/QDRRKFQ78?:display_count=n&:origin=viz_share_link)
 
 
-An updated README.md that has your written analysis with visualizations. Also, embed the Tableau Public link in your README.md file. You can do this in a few ways, but here are the two most popular ones:
-[link to dashboard](https://public.tableau.com/shared/QDRRKFQ78?:display_count=n&:origin=viz_share_link)
-[link to dashboard](LINK GOES HERE "link to dashboard")
